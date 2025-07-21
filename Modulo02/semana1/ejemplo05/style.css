@@ -1,0 +1,14 @@
+#container p.blanquito {
+    font-size: 16px;
+    background-color: #333;
+}
+
+#container p.highlight {
+    font-weight: bold;
+    color: #ff0000; /* Rojo */
+}
+
+#container p {
+    font-weight: bold;
+    color: #ffffff; /* Blanco */
+}
